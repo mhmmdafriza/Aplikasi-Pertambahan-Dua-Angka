@@ -323,6 +323,6 @@ int hasil = angka1 + angka2;
 
 ```
 
-## PEMBUAT
+## Pembuat
 Muhammad Afriza Rizqi Pramudya (2210010679) 5B
 
