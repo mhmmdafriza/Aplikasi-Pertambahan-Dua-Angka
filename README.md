@@ -2,7 +2,6 @@
 
 # Deskripsi
 Pertambahan Dua Angka adalah aplikasi sederhana yang dirancang untuk melakukan operasi penjumlahan antara dua angka yang dimasukkan oleh pengguna. Aplikasi ini sangat cocok untuk digunakan dalam pembelajaran matematika dasar, membantu pengguna dalam mempelajari operasi aritmetika dasar, atau sekadar mempermudah perhitungan sehari-hari. Dengan antarmuka yang mudah dipahami, pengguna hanya perlu memasukkan dua angka, dan aplikasi akan menampilkan hasil penjumlahannya secara instan.
-# Coding
 
 ## Coding Java Aplikasi Pertambahan Dua Angka
 ```java
